@@ -1,8 +1,7 @@
 # Project: Spanning Tree for Utility Grid Design
 
-**Course:** MA2105: Graph Algorithm \
-**Institution:** Mahindra University \
-
+**Course:** MA2105: Graph Algorithm  
+**Institution:** Mahindra University  
 **[>> View the Full Project Report (PDF) <<](report.pdf)**
 
 ---
@@ -53,3 +52,4 @@ This project addresses the fundamental problem of designing and optimizing utili
 * https://byjus.com/gate/difference-between-prims-and-kruskal-algorithum/
 * https://cp-algorithms.com/graph/mst_prim.html
 * https://www.javatpoint.com/which-minimum-spanning-tree-algorithm-is-better
+
