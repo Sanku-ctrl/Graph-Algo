@@ -14,7 +14,7 @@ This project addresses the fundamental problem of designing and optimizing utili
 
 ## Team Members
 
-* Amithi Shangari [https://github.com/Ami202512]
+* Amithi Shangari
 * Madhav Basur
 * Netan Reddy
 
@@ -52,4 +52,5 @@ This project addresses the fundamental problem of designing and optimizing utili
 * https://byjus.com/gate/difference-between-prims-and-kruskal-algorithum/
 * https://cp-algorithms.com/graph/mst_prim.html
 * https://www.javatpoint.com/which-minimum-spanning-tree-algorithm-is-better
+
 
